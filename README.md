@@ -1,2 +1,3 @@
 # TEC.-TI
-Repositório da aula de Tecnologias em TI
+RA: 25001694
+Nome: Guilherme Preventi Correia
